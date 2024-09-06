@@ -1,1 +1,0 @@
-A NVIDIA CUDA Foreign Function Interface (FFI) library.
